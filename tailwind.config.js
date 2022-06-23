@@ -10,6 +10,10 @@ module.exports = {
       fontFamily: {
         sans: "Roboto, sans-serif",
       },
+
+      backgroundImage: {
+        blur: "url(/src/assets/blur-background.png)",
+      },
       
       colors: {
         green: {
